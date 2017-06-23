@@ -1,16 +1,16 @@
-# blockchain-zion-coin [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![Greenkeeper badge](https://badges.greenkeeper.io/zion-coin/blockchain-zion-coin.svg)](https://greenkeeper.io/)
+# @polkajs/blockchain [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![Greenkeeper badge](https://badges.greenkeeper.io/PolkaJS/blockchain.svg)](https://greenkeeper.io/)
 
-[travis-image]: https://travis-ci.org/zion-coin/blockchain-zion-coin.svg?branch=master
-[travis-url]: https://travis-ci.org/zion-coin/blockchain-zion-coin
-[npm-image]: https://img.shields.io/npm/v/blockchain-zion-coin.svg
-[npm-url]: https://npmjs.org/package/blockchain-zion-coin
-[downloads-image]: https://img.shields.io/npm/dm/blockchain-zion-coin.svg
-[downloads-url]: https://npmjs.org/package/blockchain-zion-coin
+[travis-image]: https://travis-ci.org/PolkaJS/blockchain.svg?branch=master
+[travis-url]: https://travis-ci.org/PolkaJS/blockchain
+[npm-image]: https://img.shields.io/npm/v/@polkajs/blockchain.svg
+[npm-url]: https://npmjs.org/package/@polkajs/blockchain
+[downloads-image]: https://img.shields.io/npm/dm/@polkajs/blockchain.svg
+[downloads-url]: https://npmjs.org/package/@polkajs/blockchain
 
 
 
 ISC License (ISC)
-Copyright 2017 <Zion Coin>
+Copyright 2017 <PolkaJS>
 Copyright (c) 2004-2010 by Internet Systems Consortium, Inc. ("ISC")
 Copyright (c) 1995-2003 by Internet Software Consortium
 

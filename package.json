@@ -1,7 +1,7 @@
 {
-  "name": "blockchain-zion-coin",
+  "name": "@polkajs/blockchain",
   "version": "1.0.1",
-  "description": "The blockchain implementation for zion coin.",
+  "description": "The blockchain implementation for PolkaJS.",
   "main": "./lib/blockchain.js",
   "scripts": {
     "lint+build+test": "yarn run lint && yarn run build && yarn run test",
@@ -13,10 +13,11 @@
   "author": "Craig OConnor",
   "license": "ISC",
   "dependencies": {
+    "@polkajs/merkle-tree": "^1.3.0",
     "bencode": "^0.12.0",
     "levelup": "^1.3.8",
-    "merkle-tree-zion-coin": "^1.3.0",
-    "miner-zion-coin": "^1.0.0"
+    "@polkajs/miner": "^1.0.0",
+    "sha3": "^1.2.0"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
