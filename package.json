@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "@polkajs/merkle-tree": "^1.3.0",
-    "bencode": "^1.0.0",
+    "bencode": "^2.0.0",
     "levelup": "^1.3.8",
     "@polkajs/miner": "^1.0.0",
     "sha3": "^1.2.0"
